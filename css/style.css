@@ -29,3 +29,20 @@
 .evidenziatore{
     background-color: yellow;
 }
+
+.colore-head{
+    background-color: rgb(52, 173, 248);
+    color: white;
+}
+
+#margini{
+    text-align: left;
+    border-spacing: 0;
+    width: 100%;
+    height: auto;
+    table-layout: fixed;
+}
+
+.riga-evidenziata{
+    background-color: rgb(160, 217, 252);
+}
