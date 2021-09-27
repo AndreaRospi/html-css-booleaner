@@ -1,3 +1,19 @@
 .pattern{
+    height: 180px;
     background-image: url(../img/pattern.png);
+    background-color: rgb(79, 173, 231);
+
+}
+
+.logo{
+    height: 70px;
+    padding-top: 75px;
+}
+
+.autore{
+    color: lightgrey;
+}
+
+#marker{
+    color: lightskyblue;
 }
