@@ -17,3 +17,15 @@
 #marker{
     color: lightskyblue;
 }
+
+#data{
+    font-size: 13px;
+}
+
+.descrizione{
+    font-size: 10px;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
